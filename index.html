@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OneUptime packages</title>
+</head>
+<body>
+<h1>OneUptime packages</h1>
+<p>Signed apt and yum repositories for the OneUptime infrastructure agent. Setup and usage: <a href="https://oneuptime.com/docs/monitor/server-monitor">Server / VM Monitor</a>.</p>
+<h2>Debian and Ubuntu</h2>
+<pre>sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://packages.oneuptime.com/gpg.key -o /etc/apt/keyrings/oneuptime.asc
+sudo chmod a+r /etc/apt/keyrings/oneuptime.asc
+echo "deb [signed-by=/etc/apt/keyrings/oneuptime.asc] https://packages.oneuptime.com/deb stable main" | sudo tee /etc/apt/sources.list.d/oneuptime.list
+sudo apt-get update
+sudo apt-get install oneuptime-infrastructure-agent</pre>
+<h2>RHEL, Rocky Linux, AlmaLinux, Fedora and Amazon Linux</h2>
+<pre>sudo curl -fsSL https://packages.oneuptime.com/rpm/oneuptime.repo -o /etc/yum.repos.d/oneuptime.repo
+sudo dnf install oneuptime-infrastructure-agent</pre>
+<p>The repositories are signed with <a href="gpg.key">this key</a>.</p>
+</body>
+</html>
