@@ -1,0 +1,7 @@
+[oneuptime]
+name=OneUptime
+baseurl=https://packages.oneuptime.com/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://packages.oneuptime.com/gpg.key

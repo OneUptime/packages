@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 30 Oct 2026 20:17:10 +0000
+Description: OneUptime packages
+Label: OneUptime
+Origin: OneUptime
+Suite: stable
+SHA256:
+ 91d84e37f7996861a5769ad582d7ba40cb39f346d7fc160358b91b67cb6cba48             7130 main/binary-amd64/Packages
+ 06ce6d61c846d727701adba3952be0999a8ecd4c6c2c25f688478d3bd9e5687a             1651 main/binary-amd64/Packages.gz
+ 37ba5243d15770f5956f991356e89497ae5503b6f712ca708f01040865b1b286             7130 main/binary-arm64/Packages
+ 46a5a3f0fa782cc55621fff36df0f779048b07edbdacaaf771bb4149d979741a             1652 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCAAwFiEEg/LB3fWKBSRkxKFynYfklKwBZpcFAmrk+0YSHGtleUBvbmV1
+cHRpbWUuY29tAAoJEJ2H5JSsAWaXJNUP/3womTotqtWXsr4iFzCrcn5txt3YVcMe
+oJSZFqnQi8ZAiFZmlLbNUmDSPneehHfrZoNr3b3gZFzq3T4i+/YjBGrqUw91U+xb
+2pZpNnNCnWihpig2o3aL/Ql31x73iusB15N391OgMO/ml4OSOqwMSwcnctjDXGZx
+n0j2f9LBxd2pbDS4M49R1YOUBMwiKcIPfxVzjvF9w+0HfA94Co/CUz7lCosoW0Y+
+uRXQAs44CgfkDpmyXs/RSq1R74ZN2di6MHg2X1MZvhfMVNRrr7nUhrOGN1jQPPPV
+hYnarYhzJN3G+RXnCYjdmjWjq7jCobg4otXMmsEsWXodiWI1kL7V5EswVAJiErs7
+rHxKMbS4bWPpixmA70DCwAG9PTI3YlkQnZi25YkrDsCelZRmO6TQSskgLkfyZM2E
+HlkaKFZIf1a8D3rzNQEVrk+e/ro5an6CPhGJOaJ3imw6wowFdAbwgWw/yDaEgOMR
+M8KnJKjAAPX0QOEPhuxDdW6joNJjdVjePjH2Pn8ox+dZJn/WY53cwUpZM9VG6z7d
+Wg1Z5Pd3Fe8eT+JC3vM/0oG6Eaj/04KVoptvVMjaQiQXLBTuD+dzJsHZj1zYj2eT
+m6LCAXZDz9au5WGdyXy6vtsw2ULx1oV4lyMrCgaiV0NfWs/ER7lE51rVAnLG0VHj
+d1SCv1PWnaIx
+=uodw
+-----END PGP SIGNATURE-----

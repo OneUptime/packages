@@ -1,0 +1,140 @@
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.88
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.88_arm64.deb
+Size: 3346034
+SHA256: 8f574ade16d2ec4a6e865a6bd8f7f2e06f3e42c9db0eac6e41bece6f9d075d2c
+SHA512: 502a0bb4b665e3ca5061caa116dfcb27b9c6c7b9d01e24d5f002fcf911f4677d5179b45f6abf2c70026b5da37323114a39b5f21446455a86e3346282123fb91a
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.89
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.89_arm64.deb
+Size: 3346036
+SHA256: 2281a5c8d4c34688fdf99c765f746ab0782165b9b5215b02db46c89ad2e97a1d
+SHA512: c326cccf34e5f3ad0bc4912633fd07882209e8fa5b9692fe5a3d5893fcacc488f05716460f2a3ed8d824207d7c6270e540ffbe1ace43e157aaa8abc35067e0f2
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.90
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.90_arm64.deb
+Size: 3343674
+SHA256: 9173ecc3212636d840034914f0fd2e6d25bd5ee5fa6125f90ca916de7f01e53c
+SHA512: 8829b836b8a3140b3c9b7e45d79abd24cc625c67ed65f7439ab44fdf6ec70817b34afbf92b064e55a11b8adec8ee2372edf1261b4a9e6057ac5a2d4357e2023d
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.91
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.91_arm64.deb
+Size: 3343676
+SHA256: 1e2238008e5b39fbe10ff458a77f88e59a2f07ed7476b8656e6ef47a464a5e84
+SHA512: a59a115208abea564ca3aa8139059f25ef5f8f92842b5afa42381e8f8936c322e5598d916c2e5ba6bd17f2272d9c966fc27b7a958a09ebeb18e63ae5b3031768
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.92
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.92_arm64.deb
+Size: 3343662
+SHA256: d335a34cf29a15e117e703e0c423b885f8eca6400104c8ff96351df5ccb70dd2
+SHA512: 53037317fd0a59e29093c21be6dbc401a3a31189206034b98dc8a441003bce4254906a91316ea726e0afc006c63422401930eb4b4a62d441518e480614137ed6
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.93
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.93_arm64.deb
+Size: 3343666
+SHA256: 8cde9a9496f7ed9cd06c579471ba369c70db234b5f7e75c00634939394786445
+SHA512: ab7e12fc3fe1a88eda06a85f96f5a5f1bb862b9809163a7580126489aa0cd2c092eaf60cdd1824983c0a18e1b51876e1521652c812da0c889d9b6993a19d0f74
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.94
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.94_arm64.deb
+Size: 3343672
+SHA256: 47e36d3b11aad03af066b2e886326df50135a7c7a7530554b592897b94645adc
+SHA512: 7c4ed52d3101cdeb417f14684215c2bddfcf332d92b6c942060c7dabe15d4cc94f83f4b5c607473982fb8c65c57c4df2143b338d49e419f41805aa44bb3f9851
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.95
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.95_arm64.deb
+Size: 3343678
+SHA256: afd934ba91480989578bc2514f0ebb3853b988335c4bbbba695e6df643c0c0ea
+SHA512: 1983bde2bde0164a585e9a1bc67f70757d5b9ec316234cd775a2c36dbbed96a364a188342c46f4428cc69255c8df0c69d6434ea6c5ac3fdb710c2f69b1284685
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.96
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.96_arm64.deb
+Size: 3343668
+SHA256: 856de2bb54f76e84514c13d2804a87eb090c3f07fa0fed1d935d51c376907fd6
+SHA512: d2b482cf15ddf0214cc8dc49606f5c381bc48dad25d0ec6a187506a3514dae962f51affa17de06e4c256821362d8da0f4fc4b4e54549c6634ec9426bcc6e87c3
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
+Package: oneuptime-infrastructure-agent
+Architecture: arm64
+Version: 14.0.97
+Priority: optional
+Maintainer: OneUptime Infrastructure Team <infra@oneuptime.com>
+Installed-Size: 8128
+Depends: bash, coreutils, systemd
+Filename: pool/main/o/oneuptime-infrastructure-agent/oneuptime-infrastructure-agent_14.0.97_arm64.deb
+Size: 3343680
+SHA256: e047dbf9c9e46ac0054a6400ab853e04cfdab9b7883945b5cff5ce3870f91f3d
+SHA512: 69cea0227966ee3d57e2b67a16b8e1869ed89fc2452ec6db0748623a582549b7947988611ad016fb9b8db38aaab63bafd747e0c604dec33fb2e500e2676a1143
+Homepage: https://oneuptime.com/
+Description: OneUptime Infrastructure Agent is a lightweight agent that collects system metrics and sends them to the OneUptime platform.
+
