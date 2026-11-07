@@ -1,0 +1,14 @@
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 04:32:08 +0000
+Description: OneUptime packages
+Label: OneUptime
+Origin: OneUptime
+Suite: stable
+SHA256:
+ 4544a4a911c334f872655125dbfb99b72f805e4f414e049a23d16827e811bdc4             7142 main/binary-amd64/Packages
+ 56ee3916a2dc900a7368027446e6c9388d6103780a7b8286be73914f56f6c1ae             1660 main/binary-amd64/Packages.gz
+ c086efcbd4510c4755777f78486d2f878de372f4f32cc67fb9cb803f8aad2f8e             7142 main/binary-arm64/Packages
+ 74fb4ef9455c4816765ccc4929a164c6d8f336d09cb9b6e22d55dff7a2259d35             1673 main/binary-arm64/Packages.gz
